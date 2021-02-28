@@ -1,0 +1,2 @@
+test pliku po przez wpisanie do niego tekstu.
+nowa linia tekstu
