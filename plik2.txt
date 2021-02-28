@@ -1,2 +1,5 @@
 test pliku po przez wpisanie do niego tekstu.
 nowa linia tekstu
+zmiana 2
+zmiana 3
+zmiana 4
